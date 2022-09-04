@@ -1,0 +1,27 @@
+K@t@mb@.1990
+
+katambatech1
+K@t@mb@.1990
+katambatechcom1
+
+cif2017com1
+CIf@2017
+
+
+screen flow 
+
+
+
+
+<?php
+  // Define database connection constants
+  define('DB_HOST', 'cif2017com1.ipagemysql.com');
+  define('DB_USER', 'ipa');
+  define('DB_PASSWORD', 'ipa');
+  define('DB_NAME', 'ipa');
+//this is for the chats and updates configuration to database
+  define("mysqlServer","cif2017com1.ipagemysql.com");
+  define("mysqlDB","ipa");
+  define("mysqlUser","ipa");
+  define("mysqlPass","ipa");
+?>
